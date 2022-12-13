@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/photo-gallery/static/css/main.67b8663e.css",
+    "main.js": "/photo-gallery/static/js/main.274fcf58.js",
+    "static/js/787.5a8c54cb.chunk.js": "/photo-gallery/static/js/787.5a8c54cb.chunk.js",
+    "static/media/banner.jpg": "/photo-gallery/static/media/banner.f542d41303956f47110d.jpg",
+    "static/media/chickens.jpg": "/photo-gallery/static/media/chickens.70525696026ce656182a.jpg",
+    "static/media/parrot.jpg": "/photo-gallery/static/media/parrot.42bdabc029af5a9e7a91.jpg",
+    "static/media/owl.jpg": "/photo-gallery/static/media/owl.2dcf64b3842bfa91f2f6.jpg",
+    "static/media/swan-02.jpg": "/photo-gallery/static/media/swan-02.ff0ee2cfb007edc004b4.jpg",
+    "static/media/rooster.jpg": "/photo-gallery/static/media/rooster.6bd8a2837acc605ebebb.jpg",
+    "static/media/swan.jpg": "/photo-gallery/static/media/swan.f12b74b343a59239486b.jpg",
+    "static/media/swan-01.jpg": "/photo-gallery/static/media/swan-01.ad85bdaa19fac06a7cb6.jpg",
+    "static/media/kingfisher.jpg": "/photo-gallery/static/media/kingfisher.bd4420227d63596d33a9.jpg",
+    "static/media/eagle.jpg": "/photo-gallery/static/media/eagle.8f6a9feb8e5a0a364d12.jpg",
+    "static/media/hummingbird.jpg": "/photo-gallery/static/media/hummingbird.53bef459873f0b260c5a.jpg",
+    "index.html": "/photo-gallery/index.html",
+    "main.67b8663e.css.map": "/photo-gallery/static/css/main.67b8663e.css.map",
+    "main.274fcf58.js.map": "/photo-gallery/static/js/main.274fcf58.js.map",
+    "787.5a8c54cb.chunk.js.map": "/photo-gallery/static/js/787.5a8c54cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67b8663e.css",
+    "static/js/main.274fcf58.js"
+  ]
+}
